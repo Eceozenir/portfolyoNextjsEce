@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "img":"brightFuture.png",
+        "title":"Bright Future Projesi",
+        "btn":"https://github.com/Eceozenir/bitisProjesi"
+    },
+    {
+        "id":2,
+        "img":"yemekTarif.png",
+        "title":"Yemek Tarif Sitesi",
+        "btn":"https://github.com/Eceozenir/yemekTarifSitesi"
+    },
+    {
+        "id":3,
+        "img":"lookscout.png",
+        "title":"Lookscout Projesi",
+        "btn":"https://github.com/Eceozenir/lookscoutSite"
+    },
+    {
+        "id":4,
+        "img":"devJobs.png",
+        "title":"Devjobs Projesi",
+        "btn":"https://github.com/Eceozenir/devjobsSite"
+    },
+    {
+        "id":5,
+        "img":"yazarVeSozleri.png",
+        "title":"Yazar ve Sözleri Sitesi",
+        "btn":"https://github.com/Eceozenir/yazarVeSozleri"
+    },
+    {
+        "id":6,
+        "img":"todo.png",
+        "title":"To Do Uygulaması",
+        "btn":"https://github.com/Eceozenir/toDoApp"
+    }
+    
+]

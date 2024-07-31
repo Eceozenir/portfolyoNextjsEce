@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "baslik":"Eğitimlerim",
+        "icerik":"İlkokul - Öncütürk Koleji Ortaokul - Doğa Koleji Lise - Ted Koleji Üniversite - Nişantaşı Üniversitesi Aktif Olarak - Acunmedya Akademi"
+
+        
+    },
+    {
+        "id":2,
+        "baslik":"İş Tecrübelerim",
+        "icerik":"Eskişehir Karnaval Barikat - Garson Webadası Bilgi Teknolojileri - Web Tasarımcısı Overlook Ajans - Web Tasarımcısı"
+
+    },
+    {
+        "id":3,
+        "baslik":"Sertifikalarım",
+        "icerik":"Cambridge İngilizce Yeterlik Sertifikası"
+    }
+]
